@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
 <!--
-  ~ Copyright (C) 2017 The Android Open Source Project
+  ~ Copyright (C) 2012 The Android Open Source Project
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -14,10 +13,11 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License
   -->
+
 <resources>
-  <style name="DialtactsTheme" parent="DialtactsThemeBase">
-    <item name="android:windowLightNavigationBar">@bool/windowLightNavigationBar</item>
-    <item name="android:navigationBarColor">@color/navigation_bar_color</item>
-    <item name="android:navigationBarDividerColor">@color/navigation_bar_divider_color</item>
-  </style>
+
+  <color name="navigation_bar_color">@android:color/white</color>
+
+  <color name="navigation_bar_divider_color">#E0E0E0</color>
+
 </resources>

@@ -73,4 +73,14 @@
 
   <!-- Color for bubble -->
   <color name="dialer_end_call_button_color">#BD2A2A</color>
+
+  <!-- Primary Text Color Alt -->
+  <color name="primary_text_color_alt">#DE000000</color>
+
+  <!-- Secondary Text Color -->
+  <color name="secondary_text_color">#8A000000</color>
+
+  <!-- SubHeader Text Color -->
+  <color name="sub_header_text_color">#212121</color>
+
 </resources>
